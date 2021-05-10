@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://mikhailiuk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mikhailiuk/mikhailiuk.github.io"
-teaser                   :  mikhailiuk.jpg
+teaser                   : "mikhailiuk.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
