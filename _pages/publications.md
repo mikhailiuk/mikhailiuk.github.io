@@ -15,7 +15,7 @@ author_profile: true
 
 #### 2021
 
-Mustafa A.+, **Mikhailiuk A.**+, Iliescu A.*, Babar V. and Mantiuk R., 2021. [Training a better loss function for image restoration](https://www.cl.cam.ac.uk/research/rainbow/projects/mdf/Paper.pdf) *(+) Equal contribution*
+Mustafa A.+, **Mikhailiuk A.**+, Iliescu A.*, Babar V. and Mantiuk R., 2021. [Training a better loss function for image restoration](https://www.cl.cam.ac.uk/research/rainbow/projects/mdf/Paper.pdf). *(+) Equal contribution.*
 
 [bibtex](../bib/bibmdf.html) [github](https://github.com/gfxdisp/mdf) [webpage](https://www.cl.cam.ac.uk/research/rainbow/projects/mdf/)
 
@@ -33,8 +33,7 @@ Mustafa A.+, **Mikhailiuk A.**+, Iliescu A.*, Babar V. and Mantiuk R., 2021. [Tr
 [bibtex](../bib/bibasap.html) [github](https://github.com/gfxdisp/asap)
 
 
-**Mikhailiuk A.**, Ye N. and Mantiuk R., 2021. <a href="">"The effect of display brightness and viewing distance:
-a dataset for visually lossless image compression" </a>.  Human Vision and Electronic Imaging (HVEI), online.
+**Mikhailiuk A.**, Ye N. and Mantiuk R., 2021. [The effect of display brightness and viewing distance: a dataset for visually lossless image compression](https://www.cl.cam.ac.uk/~rkm38/pdfs/mikhailiuk2021view_cond_dataset.pdf).  Human Vision and Electronic Imaging (HVEI), online.
 
 [bibtex](../bib/bibhvei.html)  [dataset](https://www.repository.cam.ac.uk/handle/1810/313480)
 
