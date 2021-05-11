@@ -11,6 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+#### 2016
+
+**Mikhailiuk A.** and Dahnoun N., 2016. [Real-time pothole detection on TMS320C6678 DSP](http://ieeexplore.ieee.org/document/7738209/). International Conference on Imaging Systems and Techniques (IST), 2016. pp 123-128. IEEE
+
+[bibtex](../bib/bibpothole.html) [github](https://github.com/mikhailiuk/Pothole_Detection)
