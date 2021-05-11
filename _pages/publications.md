@@ -13,7 +13,7 @@ author_profile: true
 
 
 
-#### 2021
+### 2021
 
 Mustafa A.+, **Mikhailiuk A.**+, Iliescu A., Babar V. and Mantiuk R., 2021. [Training a better loss function for image restoration](https://www.cl.cam.ac.uk/research/rainbow/projects/mdf/Paper.pdf). *(+) Equal contribution.*
 [bibtex](../bib/bibmdf.html) [github](https://github.com/gfxdisp/mdf) [webpage](https://www.cl.cam.ac.uk/research/rainbow/projects/mdf/)
@@ -33,20 +33,20 @@ Mustafa A.+, **Mikhailiuk A.**+, Iliescu A., Babar V. and Mantiuk R., 2021. [Tra
 **Mikhailiuk A.**, Ye N. and Mantiuk R., 2021. [The effect of display brightness and viewing distance: a dataset for visually lossless image compression](https://www.cl.cam.ac.uk/~rkm38/pdfs/mikhailiuk2021view_cond_dataset.pdf).  Human Vision and Electronic Imaging (HVEI), online.
 [bibtex](../bib/bibhvei.html)  [dataset](https://www.repository.cam.ac.uk/handle/1810/313480)
 
-#### 2020
+### 2020
 Denes G., Jindal A., **Mikhailiuk A.**,  and Mantiuk R., 2020. A Perceptual Model of Motion Quality for Rendering with Adaptive Refresh-Rate and Resolution. In: SIGGRAPH 
 [bibtex](../bib/bibperceptmodel.html)  [github](https://github.com/gfxdisp/motion_quality_20) [webpage](https://www.cl.cam.ac.uk/research/rainbow/projects/motion_quality_model/)
 
 
 Iliescu A., **Mikhailiuk A.**, Wischik D., and Mantiuk R., 2020. [Disentangling Domain and Content](https://www.cl.cam.ac.uk/~dai24/disentangling_domain_content.pdf). Preprint.
 
-#### 2019
+### 2019
     
 Perez-Ortiz M.+, **Mikhailiuk A.**+, Zerman E., Hulusic V., Valenzise G. and Mantiuk R., 2019. [From pairwise comparisons and rating to a unified quality scale](https://www.cl.cam.ac.uk/research/rainbow/projects/unified_quality_scale/perezortiz2019unified_quality_scale.pdf). In: Transactions on Image Processing (TIP) IEEE *(+) Equal contribution.*
 [bibtex](../bib/bibmixing.html) [github](https://github.com/gfxdisp/pwcmp_rating_unified) [webpage](https://www.cl.cam.ac.uk/research/rainbow/projects/unified_quality_scale/)
 
 
-#### 2018
+### 2018
 **Mikhailiuk A.**, Perez-Ortiz M. and Mantiuk R., 2018. [Psychometric scaling of TID2013 dataset](http://www.cl.cam.ac.uk/~rkm38/pdfs/mikhailiuk2018tid_psych_scaling.pdf). In: International Conference on Quality of Multimedia Experience (QoMEX) 2018. IEEE
 [bibtex](../bib/bibtidscaling.html) [github](https://github.com/mantiuk/pwcmp) [dataset](https://www.repository.cam.ac.uk/handle/1810/276239)   
 
@@ -54,7 +54,7 @@ Perez-Ortiz M.+, **Mikhailiuk A.**+, Zerman E., Hulusic V., Valenzise G. and Man
 [bibtex](../bib/bibdeepseismic.html) [github](https://github.com/mikhailiuk/Deep-Learning-Applied-To-Seismic-Data)
 
 
-#### 2016
+### 2016
 
 **Mikhailiuk A.** and Dahnoun N., 2016. [Real-time pothole detection on TMS320C6678 DSP](http://ieeexplore.ieee.org/document/7738209/). International Conference on Imaging Systems and Techniques (IST), 2016. pp 123-128. IEEE
 [bibtex](../bib/bibpothole.html) [github](https://github.com/mikhailiuk/Pothole_Detection)
