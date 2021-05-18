@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Main"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Aliaksei Mikhailiuk"
 description              : &description "personal description"
