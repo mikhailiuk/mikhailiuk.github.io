@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-I regularly write about topics in Machine Learning and Artificial Intelligence. Some of these posts are my personal refernce notes, which, I hope would also be useful for a curious mind. Whenever applicable I also provide [code](https://github.com/mikhailiuk/medium) in the form of jupyter notebooks. To receive regular updates follow me on [Medium](https://mikhailiuk.medium.com).
+I regularly write about topics in Machine Learning and Artificial Intelligence. Some of these posts are my personal reference notes, which, I hope would also be useful to others. Whenever applicable I also provide [code](https://github.com/mikhailiuk/medium) in the form of jupyter notebooks. To receive regular updates follow me on [Medium](https://mikhailiuk.medium.com).
 
 ### [Perceptual Losses for Deep Image Restoration](https://towardsdatascience.com/perceptual-losses-for-image-restoration-dd3c9de4113)
 ### [Scientific computing — lessons learned the hard way](https://towardsdatascience.com/scientific-computing-lessons-learned-the-hard-way-db651f8f643a)
