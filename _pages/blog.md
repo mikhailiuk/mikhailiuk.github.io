@@ -13,6 +13,8 @@ author_profile: true
 
 I regularly write about topics in Machine Learning and Artificial Intelligence. Some of these posts are my personal reference notes, which, I hope would also be useful to others. Whenever applicable I also provide [code](https://github.com/mikhailiuk/medium) in the form of jupyter notebooks. To receive regular updates follow me on [Medium](https://mikhailiuk.medium.com).
 
+### [Beyond correlation coefficients and mean squared error](https://towardsdatascience.com/beyond-correlation-coefficients-and-mean-squared-error-952bd966cedb)
+
 ### [Deep lifelong learning — drawing inspiration from the human brain](https://towardsdatascience.com/deep-lifelong-learning-drawing-inspiration-from-the-human-brain-c4518a2f4fb9)
 ### [Nine Tools I Wish I Mastered before My PhD in Machine Learning](https://towardsdatascience.com/nine-tools-i-wish-i-mastered-before-my-phd-in-machine-learning-708c6dcb2fb0)
 ### [Perceptual Losses for Deep Image Restoration](https://towardsdatascience.com/perceptual-losses-for-image-restoration-dd3c9de4113)
