@@ -42,7 +42,7 @@ In: Human Vision and Electronic Imaging (HVEI) 2021, online. \
 
 ### 2020
 [A Perceptual Model of Motion Quality for Rendering with Adaptive Refresh-Rate and Resolution](https://www.cl.cam.ac.uk/research/rainbow/projects/motion_quality_model/denes20.pdf). \
-Denes G., Jindal A., **Mikhailiuk A.**,  and Mantiuk R. \
+Denes G., Jindal A., **Mikhailiuk A.**,  and Mantiuk R.\
 In: SIGGRAPH 2020
 \[[bibtex](../bib/bibperceptmodel.html)\]  \[[github](https://github.com/gfxdisp/motion_quality_20)\] \[[webpage](https://www.cl.cam.ac.uk/research/rainbow/projects/motion_quality_model/)\]
 
@@ -52,8 +52,8 @@ Preprint 2020.
 
 ### 2019
 [From pairwise comparisons and rating to a unified quality scale](https://www.cl.cam.ac.uk/research/rainbow/projects/unified_quality_scale/perezortiz2019unified_quality_scale.pdf).\
-Perez-Ortiz M.+, **Mikhailiuk A.**+, Zerman E., Hulusic V., Valenzise G. and Mantiuk R., 2019. \  
-In: Transactions on Image Processing (TIP) IEEE *(+) Equal contribution.* \
+Perez-Ortiz M.+, **Mikhailiuk A.**+, Zerman E., Hulusic V., Valenzise G. and Mantiuk R., 2019.\  
+In: Transactions on Image Processing (TIP) IEEE *(+) Equal contribution.*\
 \[[bibtex](../bib/bibmixing.html)\] \[[github](https://github.com/gfxdisp/pwcmp_rating_unified)\] \[[webpage](https://www.cl.cam.ac.uk/research/rainbow/projects/unified_quality_scale/)\]
 
 
@@ -63,7 +63,7 @@ In: Transactions on Image Processing (TIP) IEEE *(+) Equal contribution.* \
 In: International Conference on Quality of Multimedia Experience (QoMEX) 2018. IEEE \
 \[[bibtex](../bib/bibtidscaling.html)\] \[[github](https://github.com/mantiuk/pwcmp)\] \[[dataset](https://www.repository.cam.ac.uk/handle/1810/276239)\]   
 
-[Deep Learning Applied to Seismic Data Interpolation](http://earthdoc.eage.org/publication/publicationdetails/?publication=92298). \ 
+[Deep Learning Applied to Seismic Data Interpolation](http://earthdoc.eage.org/publication/publicationdetails/?publication=92298).\
 **Mikhailiuk A.** and Faul A. \
 In: European Association of Geoscientists and Engineers (EAGE) 2018. IEEE \
 \[[bibtex](../bib/bibdeepseismic.html)\] \[[github](https://github.com/mikhailiuk/Deep-Learning-Applied-To-Seismic-Data)\]
@@ -72,5 +72,5 @@ In: European Association of Geoscientists and Engineers (EAGE) 2018. IEEE \
 ### 2016
 [Real-time pothole detection on TMS320C6678 DSP](http://ieeexplore.ieee.org/document/7738209/).  \
 **Mikhailiuk A.** and Dahnoun N.\ 
-In: International Conference on Imaging Systems and Techniques (IST), 2016. pp 123-128. IEEE \
+In: International Conference on Imaging Systems and Techniques (IST), 2016. pp 123-128. IEEE\
 [bibtex](../bib/bibpothole.html)\] [github](https://github.com/mikhailiuk/Pothole_Detection)\]
