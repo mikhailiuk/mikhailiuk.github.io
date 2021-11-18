@@ -21,7 +21,7 @@ In: Winter Conference on Applications of Computer Vision, 2021\
 
 
 [Active sampling, scaling and dataset merging for large-scale image quality assessment](https://www.repository.cam.ac.uk/handle/1810/316810). \
-**Mikhailiuk A.**, 2021.\ 
+**Mikhailiuk A.**, 2021.\
 PhD Thesis.
 
 
