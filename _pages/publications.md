@@ -17,8 +17,8 @@ author_profile: true
 [Training a better loss function for image restoration](https://www.cl.cam.ac.uk/research/rainbow/projects/mdf/Paper.pdf).
 <\br>
 Mustafa A.+, **Mikhailiuk A.**+, Iliescu A., Babar V. and Mantiuk R., 2021.  *(+) Equal contribution.*
-
-\[[bibtex](../bib/bibmdf.html)\] [github](https://github.com/gfxdisp/mdf) [webpage](https://www.cl.cam.ac.uk/research/rainbow/projects/mdf/)
+<\br>
+\[[bibtex](../bib/bibmdf.html)\] \[[github](https://github.com/gfxdisp/mdf)\]  \[[webpage](https://www.cl.cam.ac.uk/research/rainbow/projects/mdf/)\] 
 
 
 **Mikhailiuk A.**, 2021. [Active sampling, scaling and dataset merging for large-scale image quality assessment](https://www.repository.cam.ac.uk/handle/1810/316810). PhD Thesis.
