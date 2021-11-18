@@ -43,7 +43,7 @@ In: Human Vision and Electronic Imaging (HVEI) 2021, online. \
 ### 2020
 [A Perceptual Model of Motion Quality for Rendering with Adaptive Refresh-Rate and Resolution](https://www.cl.cam.ac.uk/research/rainbow/projects/motion_quality_model/denes20.pdf). \
 Denes G., Jindal A., **Mikhailiuk A.**,  and Mantiuk R.\
-In: SIGGRAPH 2020
+In: SIGGRAPH 2020\
 \[[bibtex](../bib/bibperceptmodel.html)\]  \[[github](https://github.com/gfxdisp/motion_quality_20)\] \[[webpage](https://www.cl.cam.ac.uk/research/rainbow/projects/motion_quality_model/)\]
 
 [Disentangling Domain and Content](https://www.cl.cam.ac.uk/~dai24/disentangling_domain_content.pdf).\
