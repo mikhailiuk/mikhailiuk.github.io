@@ -20,8 +20,8 @@ In: Winter Conference on Applications of Computer Vision, 2021\
 \[[bibtex](../bib/bibmdf.html)\] \[[github](https://github.com/gfxdisp/mdf)\]  \[[webpage](https://www.cl.cam.ac.uk/research/rainbow/projects/mdf/)\] 
 
 
-[Active sampling, scaling and dataset merging for large-scale image quality assessment](https://www.repository.cam.ac.uk/handle/1810/316810).\
-**Mikhailiuk A.**, 2021.\ 
+[Active sampling, scaling and dataset merging for large-scale image quality assessment](https://www.repository.cam.ac.uk/handle/1810/316810). \
+**Mikhailiuk A.**, 2021. \ 
 PhD Thesis.
 
 
@@ -43,7 +43,7 @@ In: Human Vision and Electronic Imaging (HVEI) 2021, online. \
 ### 2020
 [A Perceptual Model of Motion Quality for Rendering with Adaptive Refresh-Rate and Resolution](https://www.cl.cam.ac.uk/research/rainbow/projects/motion_quality_model/denes20.pdf). \
 Denes G., Jindal A., **Mikhailiuk A.**,  and Mantiuk R. \
-\ In: SIGGRAPH 2020
+In: SIGGRAPH 2020
 \[[bibtex](../bib/bibperceptmodel.html)\]  \[[github](https://github.com/gfxdisp/motion_quality_20)\] \[[webpage](https://www.cl.cam.ac.uk/research/rainbow/projects/motion_quality_model/)\]
 
 [Disentangling Domain and Content](https://www.cl.cam.ac.uk/~dai24/disentangling_domain_content.pdf).\
@@ -60,7 +60,7 @@ In: Transactions on Image Processing (TIP) IEEE *(+) Equal contribution.* \
 ### 2018
 [Psychometric scaling of TID2013 dataset](http://www.cl.cam.ac.uk/~rkm38/pdfs/mikhailiuk2018tid_psych_scaling.pdf).\
 **Mikhailiuk A.**, Perez-Ortiz M. and Mantiuk R.  \
-In: International Conference on Quality of Multimedia Experience (QoMEX) 2018. IEEE
+In: International Conference on Quality of Multimedia Experience (QoMEX) 2018. IEEE \
 \[[bibtex](../bib/bibtidscaling.html)\] \[[github](https://github.com/mantiuk/pwcmp)\] \[[dataset](https://www.repository.cam.ac.uk/handle/1810/276239)\]   
 
 [Deep Learning Applied to Seismic Data Interpolation](http://earthdoc.eage.org/publication/publicationdetails/?publication=92298). \ 
