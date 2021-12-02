@@ -11,7 +11,7 @@ author_profile: true
 I regularly write about topics in Machine Learning and Artificial Intelligence. Some of these posts are my personal reference notes, which, I hope would also be useful to others. Whenever applicable I also provide [code](https://github.com/mikhailiuk/medium) in the form of jupyter notebooks. To receive regular updates follow me on [Medium](https://mikhailiuk.medium.com).
 
 
-![alt-text-1](image1.png "title-1") ### [Seven Questions to Ask before Introducing AI into Your Project](https://towardsdatascience.com/seven-questions-to-ask-before-introducing-ai-to-your-project-b969d591c98b)
+![whynotuse](whynotuse.png "title-1") ### [Seven Questions to Ask before Introducing AI into Your Project](https://towardsdatascience.com/seven-questions-to-ask-before-introducing-ai-to-your-project-b969d591c98b)
 Published: 05.11.2021
 
 ### [Beyond correlation coefficients and mean squared error](https://towardsdatascience.com/beyond-correlation-coefficients-and-mean-squared-error-952bd966cedb)
