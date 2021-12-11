@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-
+Full list of publications can also be found on [Google Scholar](https://scholar.google.co.uk/citations?user=etLuKsMAAAAJ&hl=en).
 
 ### 2021
 [Training a better loss function for image restoration](https://www.cl.cam.ac.uk/research/rainbow/projects/mdf/Paper.pdf). \
