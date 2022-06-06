@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an AI Scientist at the KIRIN AI team, Huawei, Cambridge. My main focus within the team are Computer Vision and Video and Image Processing algorithms. 
+I am an AI Team Lead at the KIRIN AI team, Huawei, Cambridge. My main focus within the team are Computer Vision and Video and Image Processing algorithms. 
 
 Before joining Huawei, I was a Research assisstant and a PhD student at the Rainbow group, Department of Computer Science, University of Cambridge, under the supervision of <a href="http://www.cl.cam.ac.uk/~rkm38/">Dr. Rafal Mantiuk</a>. There my research was focused on applications of Machine Learning to a problem of efficient data collection and modeling human visual system. 
 
