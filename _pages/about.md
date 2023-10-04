@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Machine Learning Engineer at Snap, working on generative models for human faces. Before joining Snap I was an AI Team Lead at the KIRIN AI team, Huawei, Cambridge, specialising and leading teams in Machine Learning for Computer Vision and Video and Image Processing.
+I am a Machine Learning Lead at Snap, working on enabling multimodality in Snap's chatbot (My AI). Before that I have lead a team in delivering diffusion based full-frame stylisation generative models and worked on on-device stylisation models for human faces (face-swap and My Twin (gender swap) lenses).  Before joining Snap I was an AI Team Lead at the KIRIN AI team, Huawei, Cambridge, specialising and leading teams in Machine Learning for Computer Vision and Video and Image Processing.
 
 Before moving to industry, I was a Research assisstant and a PhD student at the Rainbow group, Department of Computer Science, University of Cambridge, under the supervision of <a href="http://www.cl.cam.ac.uk/~rkm38/">Dr. Rafal Mantiuk</a>. There my research was focused on applications of Machine Learning to a problem of efficient data collection and modeling human visual system. 
 
