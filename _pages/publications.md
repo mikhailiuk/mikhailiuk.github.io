@@ -15,6 +15,7 @@ Full list of publications can also be found on [Google Scholar](https://scholar.
 
 ### 2025
 [Image-to-text large language models (llm)](https://patents.google.com/patent/US20250077794A1/en?q=(mikhailiuk)&inventor=Aliaksei&oq=Aliaksei+mikhailiuk) (Patent US20250077794A1)
+
 [Chatbot response system](https://patents.google.com/patent/US20250150414A1/en?q=(mikhailiuk)&inventor=Aliaksei&oq=Aliaksei+mikhailiuk) (Patent US20250150414A1)
 
 ### 2024
