@@ -14,12 +14,11 @@ author_profile: true
 Full list of publications can also be found on [Google Scholar](https://scholar.google.co.uk/citations?user=etLuKsMAAAAJ&hl=en).
 
 ### 2025
-Patent US20250077794A1: [Image-to-text large language models (llm)](https://patents.google.com/patent/US20250077794A1/en?q=(mikhailiuk)&inventor=Aliaksei&oq=Aliaksei+mikhailiuk)
-
-Patent US20250150414A1: [Chatbot response system](https://patents.google.com/patent/US20250150414A1/en?q=(mikhailiuk)&inventor=Aliaksei&oq=Aliaksei+mikhailiuk)
+[Image-to-text large language models (llm)](https://patents.google.com/patent/US20250077794A1/en?q=(mikhailiuk)&inventor=Aliaksei&oq=Aliaksei+mikhailiuk) (Patent US20250077794A1)
+[Chatbot response system](https://patents.google.com/patent/US20250150414A1/en?q=(mikhailiuk)&inventor=Aliaksei&oq=Aliaksei+mikhailiuk) (Patent US20250150414A1)
 
 ### 2024
-Patent US20240428469A1: [Diffusion model image cropping](https://patents.google.com/patent/US20240428469A1/en?q=(mikhailiuk)&inventor=Aliaksei&oq=Aliaksei+mikhailiuk)
+[Diffusion model image cropping](https://patents.google.com/patent/US20240428469A1/en?q=(mikhailiuk)&inventor=Aliaksei&oq=Aliaksei+mikhailiuk) (Patent US20240428469A1)
 
 ### 2021
 [Training a better loss function for image restoration](https://www.cl.cam.ac.uk/research/rainbow/projects/mdf/Paper.pdf). \
